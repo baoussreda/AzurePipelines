@@ -1,0 +1,36 @@
+trigger:
+  branches:
+    exclude:
+      - '*'
+
+jobs:
+- job: Build
+  pool:
+    vmImage: 'windows-latest'
+  steps:
+  - task: UseDotNet@2
+    inputs:
+      packageType: 'sdk'
+      version: '8.x'
+
+  - script: dotnet restore
+    displayName: 'Restore .NET Dependencies'
+
+  - script: dotnet build --configuration Release
+    displayName: 'Build .NET App'
+
+  - task: Docker@2
+    inputs:
+      containerRegistry: 'dockerhub'
+      repository: 'forazure'
+      command: 'build'
+      Dockerfile: '**/Dockerfile'
+      tags: 'forazure:$(Build.BuildId)'  # Corrected the tags parameter
+      buildContext: '.' 
+
+  - task: Docker@2
+    inputs:
+      containerRegistry: 'dockerhub'
+      repository: 'forazure'
+      command: 'push'
+      tags: 'forazure:$(Build.BuildId)'  # Corrected the tags parameter
