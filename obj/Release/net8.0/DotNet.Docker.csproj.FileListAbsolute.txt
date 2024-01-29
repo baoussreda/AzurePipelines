@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\TrainSt\App\bin\Release\net8.0\DotNet.Docker.exe
+C:\Users\user\Desktop\TrainSt\App\bin\Release\net8.0\DotNet.Docker.deps.json
+C:\Users\user\Desktop\TrainSt\App\bin\Release\net8.0\DotNet.Docker.runtimeconfig.json
+C:\Users\user\Desktop\TrainSt\App\bin\Release\net8.0\DotNet.Docker.dll
+C:\Users\user\Desktop\TrainSt\App\bin\Release\net8.0\DotNet.Docker.pdb
+C:\Users\user\Desktop\TrainSt\App\obj\Release\net8.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TrainSt\App\obj\Release\net8.0\DotNet.Docker.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TrainSt\App\obj\Release\net8.0\DotNet.Docker.AssemblyInfo.cs
+C:\Users\user\Desktop\TrainSt\App\obj\Release\net8.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TrainSt\App\obj\Release\net8.0\DotNet.Docker.dll
+C:\Users\user\Desktop\TrainSt\App\obj\Release\net8.0\refint\DotNet.Docker.dll
+C:\Users\user\Desktop\TrainSt\App\obj\Release\net8.0\DotNet.Docker.pdb
+C:\Users\user\Desktop\TrainSt\App\obj\Release\net8.0\DotNet.Docker.genruntimeconfig.cache
+C:\Users\user\Desktop\TrainSt\App\obj\Release\net8.0\ref\DotNet.Docker.dll
