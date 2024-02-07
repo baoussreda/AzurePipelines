@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\DotNetApp\out\DotNet.Docker.exe
+C:\Users\user\Desktop\DotNetApp\out\DotNet.Docker.dll
+C:\Users\user\Desktop\DotNetApp\out\DotNet.Docker.deps.json
+C:\Users\user\Desktop\DotNetApp\out\DotNet.Docker.runtimeconfig.json
+C:\Users\user\Desktop\DotNetApp\out\DotNet.Docker.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eBZDsVtW30kNz612tEtwnVPukBkj6xRJgePzjgbfaDX4zo3D4v1untZEZnbkNScu+9K+odzrQjc4CFTt+pf3wA==",
+  "dgSpecHash": "85ofPWCV26i3fiQJDho7u7VejJ79kSAZtVfVUjekECKowHCv8yXODVjHl6nrRlZxs2muxPFP5vTtZOuijyyndw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\TrainSt\\App\\DotNet.Docker.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\DotNetApp\\DotNet.Docker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
